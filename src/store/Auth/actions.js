@@ -1,5 +1,5 @@
 import client from '../../helpers/api'
-import { LOGIN_SUCCESS, LOGIN_ERROR } from './actionsTypes'
+import { LOGIN_SUCCESS, LOGIN_ERROR, USER_LOGOUT } from './actionsTypes'
 
 export const login = (email, password, history) => {
   return async dispatch => {
@@ -11,5 +11,11 @@ export const login = (email, password, history) => {
     } catch (err) {
       dispatch({ type: LOGIN_ERROR, payload: 'Invalid email or password' })
     }
+  }
+}
+
+export const logout = () => {
+  return dispatch => {
+    dispatch({ type: USER_LOGOUT })
   }
 }

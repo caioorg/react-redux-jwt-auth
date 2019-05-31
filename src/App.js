@@ -7,6 +7,8 @@ import thunk from 'redux-thunk'
 import Routes from './config/routes'
 import { LOGIN_SUCCESS } from './store/Auth/actionsTypes'
 
+import './App.css'
+
 const user = localStorage.getItem('user')
 
 const devTools =
