@@ -5,12 +5,13 @@ This project developed as a form of study using some libraries that the job mark
 
 *Note: For the project works it needs to use an api node is available in this [link](https://github.com/caioorg/node-jwt)*
 
-- Create React App via support [create-react-app](https://github.com/facebook/create-react-app)
-- React support via support [react](https://babeljs.io)
-- Redux for state management among others, support via [redux](https://redux.js.org/)
-- React Router Dom via support [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
-- Axios via support [axios](https://github.com/axios/axios)
-- Styled Components via support [styled-components](https://www.styled-components.com/)
+- Create React App by [create-react-app](https://github.com/facebook/create-react-app)
+- React by [react](https://babeljs.io)
+- Redux for state management among others, by [redux](https://redux.js.org/)
+- React Router Dom by [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
+- Axios by [axios](https://github.com/axios/axios)
+- Styled Components by [styled-components](https://www.styled-components.com/)
+- Redux-Form by [redux-form](https://redux-form.com/)
 
 ## Functional requirements:
 
