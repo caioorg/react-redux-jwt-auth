@@ -1,7 +1,7 @@
 import client from '../../helpers/api'
 import { LOGIN_SUCCESS, LOGIN_ERROR } from './actionsTypes'
 
-export const login = ({ email, password }, history) => {
+export const login = (email, password, history) => {
   return async dispatch => {
     try {
       const res = await client.post('/auth/login', { email, password })
