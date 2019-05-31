@@ -13,14 +13,6 @@ This project developed as a form of study using some libraries that the job mark
 - Styled Components by [styled-components](https://www.styled-components.com/)
 - Redux-Form by [redux-form](https://redux-form.com/)
 
-## Functional requirements:
-
-Your development environment needs to have:
-
-- Node JS
-- Yarn
-
-## Example Funcional
 
 ![](https://github.com/caioorg/react-redux-jwt-auth/blob/master/example.gif)
 
