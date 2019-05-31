@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![](https://github.com/caioorg/react-redux-jwt-auth/blob/master/example.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
